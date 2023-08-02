@@ -1,2 +1,20 @@
 # Amazon-Clone
-Welcome to the Amazon Clone Website project! This is a fully functional web application that replicates the look, feel, and core functionalities of the popular e-commerce platform, Amazon. The project is built using HTML, CSS, and JavaScript to create an interactive and dynamic user experience.
+●Overview 
+
+•Welcome to the Amazon E-commerce Website Clone frontend project! This project is a clone of the original Amazon website, built using HTML and CSS. The purpose of this project is to recreate the visual design and layout of Amazon's user interface for educational and learning purposes.
+
+●Getting Started
+
+•To view the Amazon E-commerce Website Clone frontend, follow these steps:
+
+•Clone the repository to your local machine using the command: git clone https://github.com/sangrampattnaik2003/Amazon-Clone.git
+
+•Navigate to the project folder on your computer.
+
+•Open the 'Amazon.html' file in your web browser to explore the website.
+
+●》Technologies Used
+
+•HTML: For creating the structure and content of the website.
+
+•CSS: For styling and layout of the website.
